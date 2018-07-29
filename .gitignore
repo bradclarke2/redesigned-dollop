@@ -1,5 +1,9 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+#envirnoment variables
+/src/app/Enums/envVariable.ts
+package-lock.json
+
 # compiled output
 /dist
 /tmp
